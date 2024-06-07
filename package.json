@@ -1,6 +1,7 @@
 {
-    "name": "sample-obsidian-theme",
+    "name": "dynamic-color",
     "version": "1.0.0",
+	"description": "Dynamic Color theme using Material Design 3 dynamic color system",
 	"scripts": {
 		"version": "node version-bump.mjs && git add manifest.json versions.json"
 	}
